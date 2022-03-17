@@ -1,5 +1,6 @@
 # Hi there 👋, I'm Oskar
-I'm Oskar from Sweden, and I do smart-contract and Web development. I enjoy studying DeFi protocols by forking them and then iterating/optimizing for experimentation. I have one year of coding experience. You can find my lastest stream of thoughts or inspirations on twitter at https://twitter.com/0xVitae
+I'm Oskar from Sweden, and I do smart-contract and Web development. I enjoy studying DeFi protocols by forking, optimizing and iterating upon them. I have one year of coding experience. You can find my lastest stream of thoughts or inspirations on twitter at https://twitter.com/0xVitae
+I love talking about the game theory involved in blockchain. 
 
 ### Skills and Experience
 * 🔗 SOLIDITY / WEB3.JS
