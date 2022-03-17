@@ -10,7 +10,7 @@ I'm Oskar from Sweden, and I do smart-contract and Web development. I enjoy stud
 * 🖥 HTML / CSS / JS
 
 ### Examples of Work
-
+<img src="https://github.com/0xVitae/0xVitae/blob/main/animation.gif" width="256"/>
 
 
 - 🌱 I’m currently learning about smart contract efficiency & gas optimization, aswell as Avalanche Subnets.
