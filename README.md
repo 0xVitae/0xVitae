@@ -15,7 +15,7 @@ I'm Oskar from Sweden, and I do smart-contract and Web development. I enjoy stud
 
 - 🌱 I’m currently learning about smart contract efficiency & gas optimization, aswell as Avalanche Subnets.
 - 👯 I’m looking to collaborate on Blockchain related projects (Environmentally focused if I am being picky) 
-Reach me at: oskar.oste@gmail.com 
+* Reach me at: oskar.oste@gmail.com 
 
 
 
