@@ -4,7 +4,7 @@
 
 I'm Oskar from Sweden, and I do smart-contract and Web development. I enjoy studying DeFi protocols by forking them and then iterating/optimizing for experimentation. I have one year of coding experience. You can find my lastest stream of thoughts or inspirations on twitter at https://twitter.com/0xVitae
 
-Skills: SOLIDITY / WEB3 JS / NODE JS / REACT / JS / HTML / CSS /
+Skills: SOLIDITY / WEB3 JS / NODE JS / REACT / HTML / CSS /
 
 - 🔭 I’m currently working on A DAO for hunting whales  
 - 🌱 I’m currently learning smart contract efficiency and gas optimization  
