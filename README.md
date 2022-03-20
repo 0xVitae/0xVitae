@@ -6,6 +6,7 @@ from Sweden, and I do smart-contract and Web development. I enjoy studying DeFi 
 * 🔗 SOLIDITY | WEB3.JS
 * ⚛  REACT
 * 🖥 HTML | CSS | JS
+* 📖 Sass | TypeScript
 
 ## Examples of Work
 <img src="https://github.com/0xVitae/0xVitae/blob/main/animation.gif" width="256"/>
