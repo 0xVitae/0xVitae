@@ -13,7 +13,6 @@ from Sweden, and I do smart-contract and Web development. I enjoy studying DeFi 
 
 
 - 🌱 I’m currently learning about smart contract efficiency & gas optimization, aswell as building on Avalanche Subnets.
-- 👯 I’m looking to collaborate on Blockchain projects (Environmentally focused ultimately) 
 * Reach me at: oskar.oste@gmail.com 
 
 
