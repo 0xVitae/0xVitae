@@ -12,7 +12,7 @@ from Sweden, and I do smart-contract and Web development. I enjoy studying DeFi 
 <img src="https://github.com/0xVitae/0xVitae/blob/main/animation.gif" width="256"/>
 
 
-- 🌱 I’m currently learning about optimizing low gas in smart contracts, aswell as building on Avalanche Subnets.
+- 🌱 I’m currently learning about optimizing low gas in smart contracts, aswell as Avalanche Subnets.
 * Reach me at: oskar.oste@gmail.com 
 
 
