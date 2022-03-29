@@ -3,7 +3,7 @@ from Sweden, and I do smart-contract and Web development. I enjoy studying DeFi 
 
 
 ### Skills and Experience
-* 🔗 SOLIDITY | WEB3.JS
+* 🔗 SOLIDITY | Ethers.JS
 * ⚛  REACT
 * 🖥 HTML | CSS | JS
 * 📖 SCSS | TypeScript
