@@ -8,7 +8,7 @@ from Sweden, and I do smart-contract and Web development. I enjoy studying DeFi 
 * 🖥 HTML | CSS | JS
 * 📖 SCSS | TypeScript
 
-## Examples of Work
+## Examples of "Work"
 <img src="https://github.com/0xVitae/0xVitae/blob/main/animation.gif" width="256"/>
 
 
