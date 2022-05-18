@@ -13,7 +13,7 @@ from Sweden, and I do smart-contract and Web development. I enjoy studying DeFi 
 
 
 - 🌱 I’m currently learning about Avalanche Subnets.
-* Reach me at: oskar.oste@gmail.com 
+* Reach me at: oskar@kenza.ai
 
 
 
