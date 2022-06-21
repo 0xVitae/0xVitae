@@ -1,4 +1,4 @@
-###currently building Kenza DAO
+## currently building Kenza DAO
 I do smart-contract and Web development. I enjoy studying DeFi protocols by forking, optimizing and iterating upon them. I love talking about the game theory derived from blockchain. I have one year of coding experience. You can find my lastest stream of thoughts or inspirations on twitter at https://twitter.com/0xVitae
 
 
